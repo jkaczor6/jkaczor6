@@ -1,6 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on solo UE5 projects<br>🌱 I’m currently learning C++ and UE5<br>⚡ Fun fact: when i was 2 years old I beat my 13 years old brother in a racing game
-
+🔭 I’m currently working on solo UE5 projects<br>🌱 I’m currently learning C++ and UE5<br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jakub__kaczor) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jakubkaczor6) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/kaczor117) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:j.kaczor06@gmail.com) 
