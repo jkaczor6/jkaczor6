@@ -4,7 +4,7 @@
 
 <p align="left"> <a href="https://twitter.com/kaczor117" target="blank"><img src="https://img.shields.io/twitter/follow/kaczor117?logo=twitter&style=for-the-badge" alt="kaczor117" /></a> </p>
 
-- 🔭 I'm currently working on **2D farming platformer in UE5**
+- 🔭 I'm currently working on **Delivery Simulator in UE5**
 
 - 🌱 I'm currently learning **C++ and UE5**
 
