@@ -12,7 +12,7 @@
 
 - ⚡ Fun fact **I can move my ears**
 
-- 👨‍💻 All of my projects are available at **[My Github](https://github.com/jkaczor6?tab=repositories)**
+- 👨‍💻 All of my projects are available at **[My Porfolio](https://jkaczor6.github.io/portfolio/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
