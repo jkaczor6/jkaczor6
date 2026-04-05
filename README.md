@@ -2,7 +2,7 @@
 
 ### Young, ambitous game dev
 
-<p align="left"> <a href="https://twitter.com/kaczor117" target="blank"><img src="https://img.shields.io/twitter/follow/kaczor117?logo=twitter&style=for-the-badge" alt="kaczor117" /></a> </p>
+<p align="left"> <a href="https://twitter.com/jkaczor6" target="blank"><img src="https://img.shields.io/twitter/follow/jkaczor6?logo=twitter&style=for-the-badge" alt="jkaczor6" /></a> </p>
 
 - 🔭 I'm currently working on **Inspection Game in UE5**
 
