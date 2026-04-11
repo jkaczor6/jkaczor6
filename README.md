@@ -33,7 +33,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/Blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="git" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/Aseprite" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aseprite" alt="git" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/Rider" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rider" alt="git" width="40" height="40"/> </a> 
+  <a href="https://developer.mozilla.org/en-US/docs/Web/visualstudio" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=visualstudio" alt="git" width="40" height="40"/> </a> 
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jkaczor6&show_icons=true&locale=en&layout=compact" alt="" /></p>
