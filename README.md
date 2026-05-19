@@ -1,19 +1,20 @@
 # Jakub Kaczor
-
-Game developer focused on Unreal Engine 5 and C++. Currently working on an AI/enemy systems project in a team setting.
-
+ 
+Game developer focused on Unreal Engine 5 and C++. Currently working on a co-op puzzle game and an AI/enemy systems project in a team setting.
+ 
 📫 j.kaczor06@gmail.com · [Portfolio](https://jkaczor6.github.io/portfolio/) · [itch.io](https://jkaczor6.itch.io/) · [LinkedIn](https://linkedin.com/in/jakubkaczor6)
-
+ 
 ---
-
+ 
 ## Projects
-
+ 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [SplitBean](https://github.com/jkaczor6/SplitBean) | 2-player co-op puzzle game with 7 asymmetric levels | UE5, C++ |
 | [Platform Farmer](https://github.com/jkaczor6/PlatformFarmer) | 2D platformer with resource gathering and NPC trading | UE5, C++, Paper2D |
 | [Delivery Simulator](https://github.com/jkaczor6/DeliverySimulator) | First-person courier game with physics-based package handling | UE5, C++ |
-
+| [GASCrash](https://github.com/jkaczor6/GASCrash) | Combat game showcasing Gameplay Ability System — abilities, attributes, AI, Gameplay Effects and Cues | UE5, C++, GAS |
+ 
 ---
 
 ## Tech
