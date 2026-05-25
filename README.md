@@ -1,6 +1,6 @@
 # Jakub Kaczor
  
-Game developer focused on Unreal Engine 5 and C++. Currently working on a co-op puzzle game and an AI/enemy systems project in a team setting.
+Game developer focused on Unreal Engine 5 and C++. Currently deepening my skills and exploring new project ideas.
  
 📫 j.kaczor06@gmail.com · [Portfolio](https://jkaczor6.github.io/portfolio/) · [itch.io](https://jkaczor6.itch.io/) · [LinkedIn](https://linkedin.com/in/jakubkaczor6)
  
